@@ -2,78 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="0370a7df-8e72-48bb-ad6e-e5148898da5d" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/styles/styles.css" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.gitignore" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.travis.yml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/JSON_to_db_parser.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/README.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/attendance/__init__.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/attendance/day_functions.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/attendance/ffcs.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/attendance/get_data.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/attendance/handle_query.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/attendance/login_credential.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/attendance/misc/attendance1.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/attendance/misc/attendance2.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/attendance/misc/attendance_A1.npy" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/attendance/misc/attendance_A2.npy" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/attendance/misc/attendance_Q1.npy" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/attendance/misc/attendance_Q2.npy" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/attendance/misc/list_maker.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/attendance/misc/makeDB.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/attendance/string_functions.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/attendance/student_info.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/attendance/tt.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/clubs_and_chapters.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/db/__init__.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/db/find_DB.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/faculty/__init__.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/faculty/db/faculty_A.npy" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/faculty/db/faculty_Q.npy" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/faculty/db/list_maker.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/faculty/db/makeDB.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/faculty/db/output/10020.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/faculty/db/output/10021.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/faculty/db/output/10042.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/faculty/db/output/10053.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/faculty/db/output/10055.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/faculty/db/output/10056.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/faculty/db/output/10063.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/faculty/db/output/10068.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/faculty/db/output/10072.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/faculty/db/output/10073.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/faculty/db/output/10076.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/faculty/db/output/10078.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/faculty/db/output/10079.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/faculty/db/output/10080.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/faculty/db/output/10082.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/faculty/db/output/10083.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/faculty/db/output/10084.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/faculty/db/output/10091.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/faculty/db/output/10093.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/faculty/db/output/10094.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/faculty/db/output/10095.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/faculty/db/output/10098.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/faculty/db/output/10105.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/faculty/db/output/10106.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/faculty/db/output/data.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/faculty/db/output/script.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/faculty/db/questions.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/faculty/handle_query.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/faculty/main.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/faculty/string_functions.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/main.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/query_formation.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/requirements.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/server.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/testjsonfolder/building.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/testjsonfolder/db1.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/testjsonfolder/db2.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/testjsonfolder/hostel.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/testjsonfolder/mess.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/tests.py" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.html" afterPath="$PROJECT_DIR$/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/styles/styles.css" afterPath="$PROJECT_DIR$/styles/styles.css" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -88,28 +19,23 @@
   <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="450">
-      <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
+      <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="384">
-              <caret line="16" column="31" lean-forward="true" selection-start-line="16" selection-start-column="31" selection-end-line="16" selection-end-column="31" />
+            <state relative-caret-position="722">
+              <caret line="74" column="41" lean-forward="true" selection-start-line="74" selection-start-column="41" selection-end-line="74" selection-end-column="41" />
               <folding>
                 <element signature="n#style#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#div#0;n#div#0;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#div#0;n#div#0;n#div#0;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#div#1;n#div#0;n#div#0;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#div#2;n#div#0;n#div#0;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#div#3;n#div#0;n#div#0;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="styles.css" pinned="false" current-in-tab="false">
+      <file leaf-file-name="styles.css" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/styles/styles.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1128">
-              <caret line="47" column="28" lean-forward="false" selection-start-line="47" selection-start-column="28" selection-end-line="47" selection-end-column="28" />
+            <state relative-caret-position="74">
+              <caret line="96" column="20" lean-forward="false" selection-start-line="96" selection-start-column="20" selection-end-line="96" selection-end-column="20" />
               <folding />
             </state>
           </provider>
@@ -125,14 +51,24 @@
       </list>
     </option>
   </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>\n\#style\-4\:\:\-webkit\-scrollbar\-track\n\{\n    \-webkit\-box\-shadow\: inset 0 0 6px rgba\(0\,0\,0\,0\.3\)\;\n    background\-color\: \#F5F5F5\;\n\}\n\n\#style\-4\:\:\-webkit\-scrollbar\n\{\n    width\: 10px\;\n    background\-color\: \#F5F5F5\;\n\}\n\n\#style\-4\:\:\-webkit\-scrollbar\-thumb\n\{\n    background\-color\: \#000000\;\n    border\: 2px solid \#555555\;\n\}</find>
+      <find>style-4</find>
+    </findStrings>
+    <replaceStrings>
+      <replace />
+      <replace>scrollWrap</replace>
+    </replaceStrings>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/styles/styles.css" />
         <option value="$PROJECT_DIR$/index.html" />
+        <option value="$PROJECT_DIR$/styles/styles.css" />
       </list>
     </option>
   </component>
@@ -163,7 +99,6 @@
     </navigator>
     <panes>
       <pane id="Scratches" />
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -220,13 +155,14 @@
           </PATH>
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="nodejs_interpreter_path" value="C:/Program Files/nodejs/node" />
     <property name="settings.editor.selected.configurable" value="Settings.JavaScript" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../Registraion-portal" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="HbShouldOpenHtmlAsHb" value="" />
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="list.type.of.created.stylesheet" value="CSS" />
@@ -324,11 +260,12 @@
       <workItem from="1500701055791" duration="4755000" />
       <workItem from="1500813561029" duration="10301000" />
       <workItem from="1500911763240" duration="2341000" />
+      <workItem from="1503663200375" duration="3362000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="17397000" />
+    <option name="totallyTimeSpent" value="20759000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="0" width="1932" height="1038" extended-state="0" />
@@ -337,18 +274,18 @@
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24960086" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32897863" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
@@ -369,11 +306,6 @@
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding>
             <element signature="n#style#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#div#0;n#div#0;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#div#0;n#div#0;n#div#0;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#div#1;n#div#0;n#div#0;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#div#2;n#div#0;n#div#0;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#div#3;n#div#0;n#div#0;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -392,20 +324,7 @@
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding>
             <element signature="n#style#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#div#0;n#div#0;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#div#0;n#div#0;n#div#0;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#div#1;n#div#0;n#div#0;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#div#2;n#div#0;n#div#0;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#div#3;n#div#0;n#div#0;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
           </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/styles/styles.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -419,16 +338,37 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="384">
-          <caret line="16" column="31" lean-forward="true" selection-start-line="16" selection-start-column="31" selection-end-line="16" selection-end-column="31" />
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding>
             <element signature="n#style#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#div#0;n#div#0;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#div#0;n#div#0;n#div#0;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#div#1;n#div#0;n#div#0;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#div#2;n#div#0;n#div#0;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#div#3;n#div#0;n#div#0;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/styles/styles.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="722">
+          <caret line="74" column="41" lean-forward="true" selection-start-line="74" selection-start-column="41" selection-end-line="74" selection-end-column="41" />
+          <folding>
+            <element signature="n#style#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/styles/styles.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="74">
+          <caret line="96" column="20" lean-forward="false" selection-start-line="96" selection-start-column="20" selection-end-line="96" selection-end-column="20" />
+          <folding />
         </state>
       </provider>
     </entry>

@@ -45,9 +45,6 @@
 }
 #messageWrap{
     display: flex;
-    justify-content: center;
-    min-height: 100px;
-    width: 100%;
 }
 #input{
     display: flex;
@@ -61,23 +58,69 @@
     margin: 0;
 
 }
+#scrollWrap{
+    overflow-y: scroll;
+}
+
+#scrollWrap::-webkit-scrollbar
+{
+    width: 4px;
+    background-color: transparent;
+}
+#scrollWrap::-webkit-scrollbar-thumb
+{
+    background-color: rgba(0, 0, 0, 0.3);
+}
+
+.messageWrap{
+    position: relative;
+    display: block;
+    overflow:hidden;
+    width: 100%;
+}
 .message{
+    padding: 12px;
     display: block;
     position: relative;
     background-color: #00ADB5;
-    float: right;
     margin: 15px;
     border-radius: 5px;
+}
+.message.user{
+    float: right;
+}
+.message.bot{
+    float: left;
+}
+@media(max-width: 700px) {
+    .message{
+        max-width: 80%;
+    }
+}
+@media(min-width: 701px) {
+    .message{
+        max-width: 60%;
+    }
+}
+.message-text{
+    color: white;
 }
 .triangle{
     width: 0;
     height: 0;
     border-style: solid;
-    border-width: 7.5px 0 7.5px 15px;
-    border-color: transparent transparent transparent #00ADB5;
     position: absolute;
     top: 5px;
+}
+.user .triangle{
+    border-width: 7.5px 0 7.5px 15px;
     left: 100%;
+    border-color: transparent transparent transparent #00ADB5;
+}
+.bot .triangle{
+    right: 100%;
+    border-width: 7.5px 15px 7.5px 0;
+    border-color: transparent #00ADB5 transparent transparent;
 }
 .wrapper{
     width: 100%;
