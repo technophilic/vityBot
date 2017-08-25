@@ -1,0 +1,85 @@
+@font-face {
+    font-family: 'Material Icons';
+    font-style: normal;
+    font-weight: 400;
+    src: local('Material Icons'),
+    local('MaterialIcons-Regular'),
+    url(../fonts/MaterialIcons-Regular.woff2)format('woff2')
+}
+
+.material-icons {
+    font-family: 'Material Icons';
+    font-weight: normal;
+    font-style: normal;
+    font-size: 24px;  /* Preferred icon size */
+    display: inline-block;
+    line-height: 1;
+    text-transform: none;
+    letter-spacing: normal;
+    word-wrap: normal;
+    white-space: nowrap;
+    direction: ltr;
+
+    /* Support for all WebKit browsers. */
+    -webkit-font-smoothing: antialiased;
+    /* Support for Safari and Chrome. */
+    text-rendering: optimizeLegibility;
+
+    /* Support for Firefox. */
+    -moz-osx-font-smoothing: grayscale;
+
+    /* Support for IE. */
+    font-feature-settings: 'liga';
+}
+#sidebar{
+    background-color: #3A4750;
+    height: 100vh;
+}
+#main{
+    background-color: #EEEEEE;
+    height: 100vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-end;
+    padding-bottom: 15px;
+}
+#messageWrap{
+    display: flex;
+    justify-content: center;
+    min-height: 100px;
+    width: 100%;
+}
+#input{
+    display: flex;
+    justify-content: center;
+}
+#send{
+    width: 40px;
+    height: 40px;
+}
+#typeMsg{
+    margin: 0;
+
+}
+.message{
+    display: block;
+    position: relative;
+    background-color: #00ADB5;
+    float: right;
+    margin: 15px;
+    border-radius: 5px;
+}
+.triangle{
+    width: 0;
+    height: 0;
+    border-style: solid;
+    border-width: 7.5px 0 7.5px 15px;
+    border-color: transparent transparent transparent #00ADB5;
+    position: absolute;
+    top: 5px;
+    left: 100%;
+}
+.wrapper{
+    width: 100%;
+    display: block;
+}

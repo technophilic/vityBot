@@ -1,0 +1,44 @@
+<!doctype html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport"
+          content="width=device-width, user-scalable=no, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>vityBot</title>
+    <link rel="stylesheet" href="styles/materialize.css">
+    <link rel="stylesheet" href="styles/styles.css">
+</head>
+<body>
+<div class="row" style="margin: 0;">
+    <div class="col m3 hide-on-small-and-down" id="sidebar">
+        
+    </div>
+    <div class="col m9 s12" id="main">
+        <div id="messageWrap">
+            <div style="flex-grow: 1;display: flex;overflow-x: scroll;">
+                <div style="height: 100px;width:200px;" class="message">
+                    <div class="triangle"></div>
+                </div>
+                <div style="height: 100px;width:200px;" class="message">
+                    <div class="triangle"></div>
+                </div>
+                <div style="height: 100px;width:200px;" class="message">
+                    <div class="triangle"></div>
+                </div>
+                <div style="height: 100px;width:200px;" class="message">
+                    <div class="triangle"></div>
+                </div>
+            </div>
+        </div>
+        <div id="input" class="input-field col s12">
+            <input id="typeMsg" type="text" placeholder="Type something ..">
+            <a id="send" class="btn btn-floating"><i class="material-icons">send</i></a>
+        </div>
+    </div>
+</div>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/knockout/3.4.2/knockout-min.js"></script>
+<script src="scripts/jquery.js"></script>
+<script src="scripts/materialize.min.js"></script>
+</body>
+</html>
